@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(56, 233, 174);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    line-height: 30px;
+
+}
+
+ul {
+    color: white;
+    text-align: left;
+    font-size: medium;
+}
+

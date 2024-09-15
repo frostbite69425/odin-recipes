@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(229, 64, 75);
+    text-align: center;
+    line-height: 35px;
+}
+
+h1 {
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+}
+
+.bold {
+    font-weight: 600;
+}
+
+.white {
+    color: white;
+}
+
+.text {
+    text-align: left;
+    line-height: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+}
